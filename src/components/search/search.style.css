@@ -9,3 +9,9 @@
   line-height: 30px;
   margin-bottom: 30px;
 }
+
+@media only screen and (max-width: 400px) { 
+  .search {
+    width: 70%;
+  }
+}
