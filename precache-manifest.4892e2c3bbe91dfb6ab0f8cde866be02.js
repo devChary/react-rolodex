@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "50d83653441a15ebd5d521c692a1909e",
+    "revision": "f815c2a95653341f13680ded5638d61d",
     "url": "/react-rolodex/index.html"
   },
   {
-    "revision": "8cb1b1ee20712f9ea2b3",
-    "url": "/react-rolodex/static/css/main.757b320e.chunk.css"
+    "revision": "f274ec00e32e2ed5e2d7",
+    "url": "/react-rolodex/static/css/main.71bbbd1a.chunk.css"
   },
   {
     "revision": "025ca7457249d74d40ff",
@@ -16,7 +16,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/react-rolodex/static/js/2.c8e6a317.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "8cb1b1ee20712f9ea2b3",
+    "revision": "f274ec00e32e2ed5e2d7",
     "url": "/react-rolodex/static/js/main.72106196.chunk.js"
   },
   {
